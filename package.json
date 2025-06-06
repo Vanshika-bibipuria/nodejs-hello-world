@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is a package.json file working with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE NPM"
+  },
+  "author": "vanshika bibipuria",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1"
+  }
+}
